@@ -9,7 +9,7 @@ categories: Django
 
 # 我的第一篇文章 My first Blog
 
-## Django + Python settings
+#### Django + Python settings
 
 ~~~
 $ virtualenv yourname
@@ -23,7 +23,7 @@ $ django-admin.py startproject yourproject
 $ python manage.py runserver
 ~~~
 
-## Now, in your Terminal:
+#### Now, in your Terminal:
 
 ~~~
 Performing system checks...
@@ -35,9 +35,9 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ~~~
 
-## visit http://127.0.0.1:8000/ with your Web browser.
+#### visit http://127.0.0.1:8000/ with your Web browser.
 
-## Your Django is working.
+#### Your Django is working.
 
 
 
