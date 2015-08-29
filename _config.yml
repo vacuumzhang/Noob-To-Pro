@@ -30,10 +30,10 @@ baseurl: ""
 title: "RainyAlley"
 email: "dubuyuye@yeah.net"
 description: "Developer"
-github_username:  "dubuyuye"
+github_username:  "vacuumzhang"
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
+url: ""
+imgrepo: ""
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 
