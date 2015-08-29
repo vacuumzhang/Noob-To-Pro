@@ -11,6 +11,8 @@ categories: Django
 
 ## Django + Python settings
 
-`virtualwe ProjectName`
+~~~
+virtualwe ProjectName
+~~~
 
 
