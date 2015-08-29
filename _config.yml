@@ -27,12 +27,12 @@ paginate_path: ":num"
 
 baseurl: ""
 
-title: "RainyAlley"
-email: "dubuyuye@yeah.net"
+title: "vacuumzhang"
+email: "doz.bill@hotmail.com"
 description: "Developer"
-github_username:  "dubuyuye"
+github_username:  "vacuumzhang"
 
-url: "http://vacuumzhang.github.io/noob-to-pro/"
+url: "http://vacuumzhang.github.io/noob-to-pro"
 imgrepo: "http://vacuumzhang.github.io/noob-to-pro/static/img"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
